@@ -23,6 +23,7 @@ Il faut avoir `git` et `python3` d'installer sur sa machine
 ```
     sudo apt install git python3 #sur les distributions utilisant APT
     git clone https://github.com/JinOnGit/fasttools
+    decompressez l'archive
     cd jt
     python3 -m pip install -r requirements.txt
     download : https://xael.org/pages/python-nmap-0.6.1.tar.gz #decompresser toujour dans le repertoire
