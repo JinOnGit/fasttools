@@ -24,22 +24,22 @@ Il faut avoir `git` et `python3` d'installer sur sa machine
     sudo apt install git python3 #sur les distributions utilisant APT
     git clone https://github.com/JinOnGit/fasttools
     decompressez l'archive
-    cd jt
+    cd JinFMT
     python3 -m pip install -r requirements.txt
-    download : https://xael.org/pages/python-nmap-0.6.1.tar.gz #decompresser toujour dans le repertoire
     pip install python-nmap
 ```    
 
 Execution Linux
 =
-Dans le repertoire jt/, lancez cette commande pour pouvoir lancer L'outil:
+Dans le repertoire JinFMT/, lancez cette commande pour pouvoir lancer L'outil:
 ```
 python3 jt.py
 ```
-Nouveautées version 1.0
+Nouveautées version 1.2b
 =
-Ajout de toute les fonctionalitées
-
+Review des fonctionalitées existantes et correction des beugs
+Ajout du menue malware
+![](https://cdn.discordapp.com/attachments/768799213416218625/781577228420513862/Capture.PNG)
 Compatible
 =
 - Linux
