@@ -38,8 +38,13 @@ python3 jt.py
 Nouveautées version 1.2b
 =
 Review des fonctionalitées existantes et correction des beugs
+
 Ajout du menue malware
+
+
 ![](https://cdn.discordapp.com/attachments/768799213416218625/781577228420513862/Capture.PNG)
+
+
 Compatible
 =
 - Linux
